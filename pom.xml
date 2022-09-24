@@ -47,8 +47,10 @@
 
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
-    </properties>
 
+        <sonar.dependencyCheck.htmlReportPath>reportHTMLPathBla/dependency-check-report.xml</sonar.dependencyCheck.htmlReportPath>
+
+    </properties>
 
 
 </project>
